@@ -1,4 +1,4 @@
-source,target,weight
+disease1,disease2,weight
 46 XX gonadal dysgenesis,ovarian hyperstimulation syndrome,1
 46 XX gonadal dysgenesis,46 XY gonadal dysgenesis,1
 46 XY gonadal dysgenesis,azoospermia,1
